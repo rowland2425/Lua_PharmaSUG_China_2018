@@ -1,6 +1,7 @@
 https://www.lua.org
 https://en.wikibooks.org/wiki/Lua_Programming
 https://www.tutorialspoint.com/lua/index.htm
+https://blogs.sas.com/content/sasdummy/2015/08/03/using-lua-within-your-sas-programs/
 http://documentation.sas.com/?docsetId=proc&docsetTarget=p0t7zanjrat68hn1ue4mmy337rqe.htm&docsetVersion=9.4&locale=en
 https://www.tutorialspoint.com/execute_lua_online.php
 https://support.sas.com/resources/papers/proceedings15/SAS1561-2015.pdf
